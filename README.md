@@ -1,2 +1,2 @@
-# ML
-A repository for basic ML algos.
+# ML-DL
+A repository for basic algos.
